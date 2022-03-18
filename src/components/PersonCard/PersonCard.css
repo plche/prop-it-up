@@ -1,0 +1,26 @@
+.PersonCard {
+    width: 14rem;
+    margin: auto;
+}
+
+.PersonCard > h1 {
+    margin-top: 2rem;
+    margin-bottom: 0.4rem;
+    padding-left: 26px;
+}
+
+.PersonCard > p {
+    margin: 0;
+    padding-left: 26px;
+}
+
+.PersonCard > button {
+    margin-top: 1rem;
+    width: 260px;
+    height: 36px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: 1px solid mediumpurple;
+    border-radius: 10px;
+    cursor: pointer;
+}
